@@ -1,0 +1,8 @@
+Account{name=Sara,   id=1122,  balance=1055.0,  annualInterestRate=1.5,  dateCreated=Tue Sep 26 17:44:50 EET 2023, 
+ transactions=[
+Transaction{date=Tue Sep 26 17:44:50 EET 2023, type=D, amount=30.0, balance=1030.0, description='Amount has been deposited =30.0'}, 
+Transaction{date=Tue Sep 26 17:44:50 EET 2023, type=D, amount=40.0, balance=1070.0, description='Amount has been deposited =40.0'}, 
+Transaction{date=Tue Sep 26 17:44:50 EET 2023, type=D, amount=50.0, balance=1120.0, description='Amount has been deposited =50.0'}, 
+Transaction{date=Tue Sep 26 17:44:50 EET 2023, type=w, amount=5.0, balance=1115.0, description='Amount has been withdrawn =5.0'}, 
+Transaction{date=Tue Sep 26 17:44:50 EET 2023, type=w, amount=40.0, balance=1075.0, description='Amount has been withdrawn =40.0'}, 
+Transaction{date=Tue Sep 26 17:44:50 EET 2023, type=w, amount=20.0, balance=1055.0, description='Amount has been withdrawn =20.0'}]}
